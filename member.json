@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Fabricio",
+    "lastName": "Cordoba",
+    "birthDate": "23/4/1991",
+    "id": 35795118,
+    "phoneNum": 2494020297,
+    "memberSice": "30/3/2023",
+    "sport": "futbol"
+  },
+  {
+    "name": "Ana",
+    "lastName": "Assann",
+    "birthDate": "9/4/1985",
+    "id": 31785452,
+    "phoneNum": 1145879512,
+    "memberSice": "30/3/2023",
+    "sport": "zumba"
+  },
+  {
+    "name": "Santiago",
+    "lastName": "Garda",
+    "birthDate": "10/10/1995",
+    "id": 39456154,
+    "phoneNum": 2281568521,
+    "memberSice": "30/3/2023",
+    "sport": "basket"
+  },
+  {
+    "name": "Milagros",
+    "lastName": "Herrera",
+    "birthDate": "14/1/2000",
+    "id": 40951753,
+    "phoneNum": 2494452141,
+    "memberSice": "30/3/2023",
+    "sport": "natacion"
+  }
+]
